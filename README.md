@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=obsidian)](https://skillicons.dev)
 
 ## 📫 How to reach me
-  - **Telegram**: [Albert](https://t.me/Timofeynn)
+  - **Telegram**: [Timofey](https://t.me/Timofeynn)
 
 <!--
 **TimofeyNovv/TimofeyNovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
