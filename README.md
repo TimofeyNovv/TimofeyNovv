@@ -14,6 +14,9 @@
 ## 📫 How to reach me
   - **Telegram**: [Timofey](https://t.me/Timofeynn)
 
+## 📊 Statistics GitHub 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimofeyNovv&layout=compact&theme=radical)
 <!--
 **TimofeyNovv/TimofeyNovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
