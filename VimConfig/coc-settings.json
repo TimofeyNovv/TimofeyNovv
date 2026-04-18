@@ -1,0 +1,13 @@
+{
+  "diagnostic.refreshOnInsertMode": true,
+  "diagnostic.virtualText": false,
+  "suggest.noselect": true,
+  "clangd.arguments": [
+    "--background-index",
+    "--clang-tidy",
+    "--header-insertion=iwyu"
+  ],
+  "clangd.fallbackFlags": [
+    "-std=c++20"
+  ]
+}
