@@ -17,6 +17,8 @@ set termguicolors
 set background=dark
 " Говорит Vim, что используется тёмная тема оформления.
 
+autocmd FileType python setlocal expandtab shiftwidth=4 softtabstop=4
+"для отступов
 
 " ===========================
 " Плагины
@@ -223,3 +225,12 @@ nmap <silent> K  :call CocActionAsync('doHover')<CR>
 
 nmap <silent> <leader>rn <Plug>(coc-rename)
 " В обычном режиме <leader>rn запускает переименование символа во всех местах.
+
+
+" Шаблоны "
+" Шаблон для C++"
+augroup templates
+    autocmd!
+    autocmd BufNewFile *.cpp 0r ~/.vim/templates/cpp.tpl
+augroup END
+
